@@ -1,5 +1,4 @@
-{
-  "name": "Ihor",
-  "city": "Kyev",
-  "game": "SC"
-}
+[default]
+name=Ihor
+city=Kyev
+game=SC
