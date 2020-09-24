@@ -1,3 +1,5 @@
-[default]
-name=Ihor
-city=Kyev
+{
+  "name": "Ihor",
+  "city": "Kyev",
+  "game": "SC"
+}
